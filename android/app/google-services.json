@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434293721043",
+    "project_id": "craftsales-a5fa9",
+    "storage_bucket": "craftsales-a5fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434293721043:android:07f1f1646df6813abd9126",
+        "android_client_info": {
+          "package_name": "br.com.dtec.craftsales.craftsales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ssn3naUCXcr-HXvHFxH9_Cs_KRN1Mr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
